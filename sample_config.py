@@ -25,11 +25,11 @@
 class Config(object):
 
     # get a token from @BotFather
-    BOT_TOKEN = ""
+    BOT_TOKEN = "5390569481:AAHi1-ngnr1pgKyZYn_tdtPwlNXERIMpXGM"
 
     # Get these values from my.telegram.org
-    API_ID = 1234567
-    API_HASH = ""
+    API_ID = 6537576
+    API_HASH = "2898a38704b58b7bc094d43737dfe0fe"
 
     # No need to change
     DOWNLOAD_LOCATION = "./DOWNLOADS"
@@ -44,7 +44,7 @@ class Config(object):
     OWNER_ID = 1288398723
 
     # bot username without @
-    BOT_USERNAME = "AdvanceUrlUploaderBot"
+    BOT_USERNAME = "@media_data_bot"
 
     # auth users
     AUTH_USERS = [OWNER_ID]
